@@ -1,0 +1,1 @@
+export const generateNewTokenForSubmissionWemadeContractAddress = "0x1F29448a42F72683730DA4E335d5F22A9b5AE34d";
