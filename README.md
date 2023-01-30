@@ -1,6 +1,4 @@
-## Wemade Assignment
-
-Proxy FT Generator
+## Proxy FT Generator
 
 1. Clone this repository
 2. `yarn install`
